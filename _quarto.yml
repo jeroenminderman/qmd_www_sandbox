@@ -4,6 +4,7 @@ project:
 website:
   title: "test_website2"
   navbar:
+    title: false
     right:
       - href: index.qmd
         text: Home
