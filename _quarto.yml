@@ -11,6 +11,6 @@ website:
 
 format:
   html:
-    theme: default
+    theme: simplex
     css: assets/styles.css
     toc: true
