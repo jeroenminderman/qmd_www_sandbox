@@ -6,8 +6,7 @@ website:
   navbar:
     title: false
     logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
-    background: dark
-    foreground: "#FFFFFF"
+    background: secondary
     right:
       - href: index.qmd
         text: Home
