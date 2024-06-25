@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Quarto website sandbox"
+  bread-crumbs: true
   sidebar:
     title: Sidebar title
     style: "floating"
