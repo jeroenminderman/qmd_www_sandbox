@@ -2,7 +2,21 @@ project:
   type: website
 
 website:
-  title: "test_website2"
+  title: "Quarto website sandbox"
+  sidebar:
+    title: Sidebar title
+    style: "floating"
+    search: false
+    contents:
+      - section: "Section 1"
+        contents:
+          - index.qmd
+          - about.qmd
+      - section: "Section 2"
+        contents:
+          - about.qmd
+          - index.qmd
+
   navbar:
     title: false
     logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
