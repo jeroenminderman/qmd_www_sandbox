@@ -5,6 +5,7 @@ website:
   title: "test_website2"
   navbar:
     title: false
+    logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
     right:
       - href: index.qmd
         text: Home
