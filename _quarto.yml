@@ -6,9 +6,8 @@ website:
   sidebar:
     contents:
       - index.qmd
-      - section: Course Content
-        contents: chapters
-      - Acknowledgements.qmd
+      - acknowledgements.qmd
+      - auto: "chapters/"
     title: "Sidebar title"
     # logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
     style: "floating"
