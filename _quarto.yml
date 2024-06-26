@@ -5,9 +5,9 @@ website:
   title: "Quarto website sandbox"
   sidebar:
     contents: 
-      - section: index.qmd
+      - index.qmd
       - chapters/
-      - section: chapters/Acknowledgements.qmd
+      - Acknowledgements.qmd
     title: "Sidebar title"
     # logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
     style: "floating"
