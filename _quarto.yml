@@ -3,7 +3,6 @@ project:
 
 website:
   title: "Quarto website sandbox"
-  bread-crumbs: true
   sidebar:
     title: Sidebar title
     style: "floating"
@@ -13,6 +12,7 @@ website:
         contents:
           - index.qmd
           - about.qmd
+      - text: "---"
       - section: "Section 2"
         contents:
           - about.qmd
