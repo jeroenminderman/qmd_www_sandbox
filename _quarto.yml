@@ -10,10 +10,10 @@ website:
     style: "floating"
     search: false
 
-  # page-footer:
-  #   center: 
-  #     - text: "Footer"
-  #       href: chapters/footer.qmd
+  page-footer:
+    center: 
+      - text: "Footer"
+        href: footer.qmd
 
   navbar:
    title: <span style="font-size:150%;font-weight:bold;">Introduction to R</span>
