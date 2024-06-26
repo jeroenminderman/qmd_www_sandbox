@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+//$h2-font-size:          1.6rem !default;
+$headings-font-weight:  500 !default;
+//$headings-font-size: 50%;
+$font-size-root: 16px;
+$h1-font-size: 130%;
+$h2-font-size: 120%;
+$h3-font-size: 110%;
+$h4-font-size: 100%;
+$h5-font-size: 100%;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  //text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+}
+
+// // The left hand sidebar
+// //$grid-sidebar-width: 350px !default;
+
+// // The main body
+// $grid-body-width: 900px !default;
+
+// // The right hand margin bar
+// $grid-margin-width: 300px !default;
+
+// // The gutter that appears between the above columns
+// $grid-column-gutter-width: 1.5rem !default;
