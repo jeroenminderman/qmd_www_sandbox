@@ -1,5 +1,6 @@
 ---
-title: "3. Importing & exporting data"
+title: "Third chapter"
+order: 3
 ---
 
 # Heading 1

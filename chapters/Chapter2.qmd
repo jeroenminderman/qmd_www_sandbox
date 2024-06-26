@@ -1,5 +1,6 @@
 ---
-title: "2. Data Structures"
+title: "2. Chapter 2"
+order: 2
 ---
 
 # Heading 1
