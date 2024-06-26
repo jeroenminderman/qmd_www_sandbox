@@ -6,7 +6,7 @@ website:
   sidebar:
     contents:
       - index.qmd
-      - section: "Course Content"
+      - section: Course Content
         contents: chapters
       - Acknowledgements.qmd
     title: "Sidebar title"
