@@ -4,17 +4,16 @@ project:
 website:
   title: "Quarto website sandbox"
   sidebar:
-    contents: 
-      - chapters    
+    contents: chapters/
     title: "Sidebar title"
     # logo: https://datasciencecampus.ons.gov.uk/wp-content/uploads/sites/10/2017/03/data-science-campus-logo-new.svg
     style: "floating"
     search: false
 
-  page-footer:
-    center: 
-      - text: "Footer"
-        href: chapters/footer.qmd
+  # page-footer:
+  #   center: 
+  #     - text: "Footer"
+  #       href: chapters/footer.qmd
 
   navbar:
    title: <span style="font-size:150%;font-weight:bold;">Introduction to R</span>
